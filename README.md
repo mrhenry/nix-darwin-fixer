@@ -43,7 +43,7 @@ nix --version
 nix run github:mrhenry/nix-darwin-fixer -- uninstall
 ```
 
-## REading Material
+## Reading Material
 
 - https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html#//apple_ref/doc/uid/10000172i-SW7-BCIEDDBJ
 - https://github.com/NixOS/nix/issues/3616
