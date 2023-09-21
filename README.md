@@ -1,8 +1,8 @@
 # Keep Nix working on macOS after system updates
 
-This is a fix for when Nix breaks after a macOS system updates.
+This is a fix for when Nix breaks after macOS system updates.
 It installs a LaunchDaemon that will run on system boot and fix the
-broken `/etc/zshrc` and `/etc/bashrc` files.
+broken `/etc/zshrc` and `/etc/bashrc` files. You can also run it manually.
 
 ## How to use the fixer
 
